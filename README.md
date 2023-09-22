@@ -1,2 +1,0 @@
-# CarModelExplorer
-CarModelExplorer

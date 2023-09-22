@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CarModelExplorer
+/CarModelExplorer.API/bin
+/CarModelExplorer.API/obj
+/CarModelExplorer.Core/bin
+/CarModelExplorer.Core/obj
+/CarModelExplorer.Data/bin
+/CarModelExplorer.Data/obj
